@@ -15,6 +15,6 @@ Please, wait for us to create the necessary files inside a new folder in your co
 - Add basic HTML structure to `contact.html` and, inside the body tags, add two empty sections like the ones of index.html.
 - Add an `<h1>` with your email address in the first section and add a link to go back to `index.html` in the second and last section.
 - Link `script.js` to `index.html`.
-- Make sure the script is linked to index.html by console logging ‘Hello, world!’. Where would you look for this message in the browser?
-- Add the id ‘list-fav’ to the second section on index.html.
-- In `script.js`, below console.log(‘Hello, world!’), add the code necessary to select the element with the id ‘list-fav’, and toggle on it the class ‘text-orange’ when you click on it.
+- Make sure the script is linked by _console logging ‘Hello, world!’_. Where would you look for this message in the browser?
+- Add the id _‘list-fav’_ to the second section on _index.html_.
+- In `script.js`, below `console.log(‘Hello, world!’)`, add the code necessary to select the element with the id _‘list-fav’_, and toggle on it the class _‘text-orange’_ when you click on it.
