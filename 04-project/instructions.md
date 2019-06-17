@@ -2,7 +2,7 @@ Now, let's begin the ultimate challenge. Following our instructions, you’re go
 Please, wait for us to create the necessary files inside a new folder in your computer, then go through the questions as usual and follow the instructions by typing real code in your favourite text editor.
 
 - You will deal with 4 files inside a folder that represents the project: `index.html`, `contact.html`, `style.css` and `script.js`. Add the basic HTML structure into `index.html`.
-- Add the necessary code to link `index.html` with `style.css`.
+- Link `style.css` to `index.html`.
 - Using an appropriate HTML tag, create 3 empty sections in `index.html` with the class _‘section’_.
 - Inside the first section, add a title with your name, a paragraph with a sentence of your choice, and a picture of you (or of a cute internet kitten).
 - Inside the second section, add a list of your favourite movies, hobbies, or foods.
