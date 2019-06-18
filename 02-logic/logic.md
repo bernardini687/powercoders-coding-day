@@ -26,7 +26,7 @@
 2. The argument is invalid
 
 ### A computer is using this decision tree. Which of these creatures will require the computer to ask the most amount of questions?
-> Insert image.
+![decision tree](./images/decision_tree.png)
 
 1. House Cat
 2. Salmon
@@ -34,7 +34,7 @@
 4. Cow
 
 ### The first question at the very top of the decision tree is an especially important one. If you want the root of the decision tree to split these faces into two groups of two, which of these questions should you ask?
-> Insert image.
+![faces](./images/faces.png)
 
 1. Do they have long hair?
 2. Are they smiling?
@@ -43,7 +43,7 @@
 5. None of these will work.
 
 ### There are 2 squares of different sizes. What is the minimum number of matchsticks that we have to move in order to end up with exactly 3 squares? The squares may or may not be of different sizes.
-> Insert image.
+![guess number](./images/guess_number.jpg)
 
 1. 1
 2. 2
@@ -66,7 +66,7 @@
 4. Mary
 
 ### What number should replace the question mark?
-> Insert image.
+![matches](./images/matches.png)
 
 1. 44
 2. 46
