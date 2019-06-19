@@ -10,11 +10,11 @@
 3. CPU
 4. NIC
 
-### Application software...
-1. Tells the computer components what to do
-2. Lets the computer interact with the user
-3. Lets the user perform a task
-4. Is encoded on a piece of hardware
+### What type of software is Windows?
+1. Operating System Software
+2. Application Software
+3. Utility Software
+4. Antivirus Software
 
 ### What allows multiple programs to run on a computer?
 1. NIC
@@ -37,7 +37,7 @@
 ### What type of software is free to try but then you have to buy?
 1. Commercial
 2. Shareware
-3. Opensource
+3. Open Source
 4. Microsoft Word
 
 ### WWW stands for:
@@ -46,7 +46,7 @@
 3. World Word Web
 4. None of the above
 
-### Is a group of independent computers attached to one another through communication media:
+### What allows computers to talk to each other?
 1. Internet
 2. E-mail
 3. Network
