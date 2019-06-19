@@ -1,6 +1,6 @@
 ### Joseph, Kevin, and Nicholas are 3 brothers. If the following statements are all true, which of them is the youngest?
-> Joseph is not the youngest.
-> Kevin is the oldest.
+> Joseph is not the youngest.  
+> Kevin is the oldest.  
 > Nicholas is not the oldest.
 
 1. Joseph
@@ -8,8 +8,8 @@
 3. Nicholas
 
 ### Five brothers compare their heights in the following way. Who is the tallest?
-> Alex is taller than Brian but shorter than Charlie;
-> Daniel is taller than Edward but shorter than Alex.
+> Alex is taller than Brian but shorter than Charlie;  
+> Daniel is taller than Edward but shorter than Alex.  
 
 1. Alex
 2. Brian
@@ -18,9 +18,9 @@
 5. Edward
 6. Not enough information
 
-> All Bigfoots are monsters.
-> All monsters are scary.
-> Therefore, all Bigfoots are scary.
+> All Bigfoots are monsters.  
+> All monsters are scary.  
+> Therefore, all Bigfoots are scary.  
 
 1. The argument is valid
 2. The argument is invalid
@@ -33,7 +33,7 @@
 3. Mouse
 4. Cow
 
-### The first question at the very top of the decision tree is an especially important one. If you want the root of the decision tree to split these faces into two groups of two, which of these questions should you ask?
+### Which of these questions should you ask if you want to split the images below into two equally sized groups?
 ![faces](./images/faces.png)
 
 1. Do they have long hair?
