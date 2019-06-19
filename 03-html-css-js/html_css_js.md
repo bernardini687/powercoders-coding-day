@@ -46,7 +46,7 @@
 2. At the end of the document
 3. In the `<body>` section
 
-### How do you add the color _'#ff0000'_ as the background color to the body of the HTML?
+### How do you add the color `#ff0000` as the background color to the body of the HTML?
 1. `div { background: #ff000; }`
 2. `body { color: #ff000; }`
 3. `body { background-color: #ff000; }`
